@@ -60,9 +60,7 @@ For support, questions, or more information, please contact our support team at 
 
 Join the Mech Wars community! Follow us on social media for the latest updates, share your experiences, and connect with fellow players:
 
-- Twitter: [Insert Twitter link]
-- Facebook: [Insert Facebook link]
-- Discord: [Insert Discord link]
+- Discord: 
 
 ## Acknowledgments
 
