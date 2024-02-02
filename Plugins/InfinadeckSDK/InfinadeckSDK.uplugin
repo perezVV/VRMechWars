@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 4,
+	"VersionName": "3.3.1",
+	"FriendlyName": "InfinadeckSDK",
+	"Description": "Functions for interfacing with Infinadeck Omnidirectional Treadmill",
+	"Category": "Other",
+	"CreatedBy": "Infinadeck",
+	"CreatedByURL": "http://infinadeck.com",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/cf7ecc227c64457cb2bd1c58c3a659ca",
+	"SupportURL": "",
+	"EngineVersion": "4.25.0",
+	"CanContainContent": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "InfinadeckSDK",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		}
+	]
+}
