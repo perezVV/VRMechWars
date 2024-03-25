@@ -25,6 +25,10 @@
 			"Name": "InfinadeckSDK",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/cf7ecc227c64457cb2bd1c58c3a659ca"
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
