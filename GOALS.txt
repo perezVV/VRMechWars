@@ -4,24 +4,36 @@
 		- enemies spawn when fixing a terminal (tower defense situation)
 		- some sort of audio & video indicator when it is fixed (in case the player is looking away)
 	- terminal beacons (activates the nearest one to the player)
+
 - hud (vijay)
 	- terminal counter
 	- objective?
+
 - some sort of indicator for damage (vijay)
 	- players dont actually die, but we want them to feel the tension of being attacked
 	- dont make it TOO clear whether they are "near death" to add to the tension
+
 - enemy meshes (vijay)
-- better rockets (ethan)
+
+
 - crosshair on dome (vijay)
 	- small loading thingy when looking at an enemy
 	- sound effect when looking (building up to the blast)
+
 - sound effects (ethan)
-- music (ethan)
+
 - "ai" voice for the mesh that explains the situation at the beginning (activated when infinadeck is turned on) (ethan)
 
+- rocket particles (ethan)
 
-- 'stretch' goals:
-	- fog when opening the doors (ethan)
-	- red flashing lights (vijay)
-	- situational music (ethan)
-	- enemies burrow out from the ground when fixing terminals (vijay)
+STRETCH GOALS:
+- red flashing lights (vijay)
+- situational music (ethan)
+- enemies burrow out from the ground when fixing terminals (vijay)
+
+
+COMPLETED:
+- better rockets (ethan)
+- music (ethan)
+- mech dome (ethan)
+- fog when opening the doors (ethan)
